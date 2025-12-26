@@ -8,10 +8,10 @@ When w = 0000, the output is forced HIGH (duty cycle = 16/16). This avoids a com
 
 # Inputs & Output
 - Inputs:
-clk – clock signal
-w[3:0] – duty cycle control
+clk: clock signal | 
+w: duty cycle control
 - Output:
-PWM_out – PWM signal
+PWM_out: PWM signal
 
 # Features
 - Fully digital design (no analog components)
