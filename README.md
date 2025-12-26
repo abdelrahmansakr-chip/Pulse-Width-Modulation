@@ -11,6 +11,7 @@ Inputs:
 
 clk -> clock signal | 
 w -> duty cycle control
+
 Output:
 
 PWM_out -> PWM signal
